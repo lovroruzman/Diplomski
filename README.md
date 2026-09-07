@@ -10,6 +10,15 @@ usporedba. Oblaci se dijele na 4 klase: deblo, grane, potpora i trava.
 
 ---
 
+<p align="center">
+  <img src="slike/fps_a_rgb.png" width="45%" alt="Oblak točaka u RGB bojama" />
+  <img src="slike/fps_b_labele.png" width="45%" alt="Oznake po klasama" />
+</p>
+
+<p align="center">
+  <em>Primjer stabla iz skupa podataka: lijevo izvorne RGB boje, desno oznake po klasama (deblo, grane, potpora, trava).</em>
+</p>
+
 ##  Skup podataka
 
 Skup podataka (izvorni oblaci i unaprijed izrezani patchevi) dostupan je ovdje:
