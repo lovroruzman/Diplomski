@@ -14,7 +14,7 @@ usporedba. Oblaci se dijele na 4 klase: deblo, grane, potpora i trava.
 
 Skup podataka (izvorni oblaci i unaprijed izrezani patchevi) dostupan je ovdje:
 
-### **[⬇️ Preuzmi skup podataka](https://puh.srce.hr/s/exFQfwHmrWJKANc)**
+### **[⬇️ Link Na Skup Podataka](https://puh.srce.hr/s/exFQfwHmrWJKANc)**
 
 ---
 
